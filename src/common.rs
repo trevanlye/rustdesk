@@ -996,7 +996,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "http://192.168.22.190:21114".to_owned()
+    "http://rustdesk.elecproto.com:21114".to_owned()
 }
 
 #[inline]
