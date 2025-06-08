@@ -996,7 +996,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "http://rustdesk.elecproto.com:21114".to_owned()
+    "http://www.deepgrid.top:21114".to_owned()
 }
 
 #[inline]
